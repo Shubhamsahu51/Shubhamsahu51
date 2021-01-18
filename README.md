@@ -1,16 +1,11 @@
-### Hi there 👋
+### Hola, I'm Shubham Sahu! 👋
 
-<!--
-**Shubhamsahu51/Shubhamsahu51** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Machine Learning Project
+- 🌱 I’m currently learning Machine Learning, Blockchain and Crptocurrency
+- ➕ New Skills Unlocked - Graphql, React
+- 🚀 Learning Data Structures & Algorithms to solve bigger problems
+- 👯 I’m looking to collaborate on Youtube
+- 💬 Ask me about any tech related stuff
+- 📫 How to reach me: https://www.linkedin.com/in/shubhamdineshsahu/
+- ⚡ Fun fact: I'm a huge fan of Batman
+--⚙️ I use daily: youtube
