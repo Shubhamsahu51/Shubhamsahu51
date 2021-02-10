@@ -1,5 +1,7 @@
 ### Hola, I'm Shubham Sahu! 👋
 
+<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif"/>
+
 - 🔭 I’m currently working on Machine Learning Project
 - 🌱 I’m currently learning Machine Learning, Blockchain and Cryptocurrency
 - ➕ New Skills Unlocked - Graphql, React
