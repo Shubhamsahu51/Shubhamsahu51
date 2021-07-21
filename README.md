@@ -7,4 +7,4 @@
 - 🚀 Learning Data Structures & Algorithms to solve bigger problems
 - 💬 Ask me about any tech related stuff
 - 📫 How to reach me: https://www.linkedin.com/in/shubhamdineshsahu/
-- ⚡ Fun fact: I'm a huge fan of Batman
+- ⚡ Fun fact: I'm a huge fan of Superheroes
